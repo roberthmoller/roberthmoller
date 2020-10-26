@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🚀 Making apps with `Booza Nightlife`
+- 📚 Absorbing knowledge about `Forensic Computing and Security`
+
 
 <!--
 **rhmoeller/rhmoeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
