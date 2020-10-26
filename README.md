@@ -1,19 +1,20 @@
 ### Hi there 👋
-- 🚀 Making apps with `Booza Nightlife`
-- 📚 Absorbing knowledge about `Forensic Computing and Security`
 
+🚀 Making apps with `Booza Nightlife`
+
+📚 Absorbing knowledge about `Forensic Computing and Security`
+
+![Github Languages][github languages]
+
+### About me
+
+dolorem ipsum
 
 <!--
-**rhmoeller/rhmoeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Booza Nightlife][booza nightlife]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+?labelColor=abcdef
+?color=abcdef
 -->
+[github languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=rhmoeller "Languages used"
+[booza nightlife]: https://img.shields.io/static/v1?label=BOOZA&message=NIGHTLIFE&style=for-the-badge "Booza Nightlife"
