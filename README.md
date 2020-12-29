@@ -18,5 +18,5 @@ dolorem ipsum
 ?labelColor=abcdef
 ?color=abcdef
 -->
-[github languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=rhmoeller "Languages used"
+[github languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=rhmoeller&theme=dark "Languages used"
 [booza nightlife]: https://img.shields.io/static/v1?label=BOOZA&message=NIGHTLIFE&style=for-the-badge "Booza Nightlife"
