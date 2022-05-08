@@ -1,7 +1,7 @@
 Hi 👋 My name is Robert 
 =======================  
-Full Stack Software Engineer 
-----------------------------  
+### Full Stack Software Engineer 
+
 * 🌍  based in Europe 
 * 🧠  learning how to build DAPPs
 * 📚  studying Digital Security
