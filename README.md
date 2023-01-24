@@ -1,5 +1,3 @@
-```❗️Looking for internship ❗️```
-
 # Hi 👋 My name is Robert
 
 ### Full Stack Software Engineer / Digital Forensic Analyst
