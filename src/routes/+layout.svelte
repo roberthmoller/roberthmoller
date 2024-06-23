@@ -46,31 +46,31 @@
         </header>
 
         <ul>
-            <li class=" px-4 py-3 rounded-xl w-full" class:bg-[#292929]={$page.url.pathname === "/"}>
+            <li class=" px-4 py-3 rounded-xl w-full" class:bg-[#292929]={$page.url.pathname === base+"/"}>
                 <a href="{base}/" class="flex flex-row gap-4 items-center">
                     <Book16 size="18"/>
                     <span>Overview</span>
                 </a>
             </li>
-            <li class="px-4 py-3 rounded-xl w-full" class:bg-[#292929]={$page.url.pathname === "/repositories"}>
+            <li class="px-4 py-3 rounded-xl w-full" class:bg-[#292929]={$page.url.pathname === base+"/repositories"}>
                 <a href="{base}/repositories" class="flex flex-row gap-4 items-center">
                     <Repo16 size="18"/>
                     <span>Repositories</span>
                 </a>
             </li>
-            <li class="px-4 py-3 rounded-xl w-full" class:bg-[#292929]={$page.url.pathname === "/projects"}>
+            <li class="px-4 py-3 rounded-xl w-full" class:bg-[#292929]={$page.url.pathname === base+"/projects"}>
                 <a href="{base}/projects" class="flex flex-row gap-4 items-center">
                     <Project16 size="18"/>
                     <span>Projects</span>
                 </a>
             </li>
-            <li class="px-4 py-3 rounded-xl w-full" class:bg-[#292929]={$page.url.pathname === "/packages"}>
+            <li class="px-4 py-3 rounded-xl w-full" class:bg-[#292929]={$page.url.pathname === base+"/packages"}>
                 <a href="{base}/packages" class="flex flex-row gap-4 items-center">
                     <Package16 size="18"/>
                     <span>Packages</span>
                 </a>
             </li>
-            <li class="px-4 py-3 rounded-xl w-full" class:bg-[#292929]={$page.url.pathname === "/stars"}>
+            <li class="px-4 py-3 rounded-xl w-full" class:bg-[#292929]={$page.url.pathname === base+"/stars"}>
                 <a href="{base}/stars" class="flex flex-row gap-4 items-center">
                     <Star16 size="18"/>
                     <span>Stars</span>
