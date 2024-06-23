@@ -20,6 +20,7 @@
         Project16
     } from 'svelte-oct';
     import {page} from '$app/stores';
+    import {base} from "$app/paths";
 
     const {data, children} = $props();
     const {profile} = data;
@@ -46,31 +47,31 @@
 
         <ul>
             <li class=" px-4 py-3 rounded-xl w-full" class:bg-[#292929]={$page.url.pathname === "/"}>
-                <a href="/" class="flex flex-row gap-4 items-center">
+                <a href="{base}/" class="flex flex-row gap-4 items-center">
                     <Book16 size="18"/>
                     <span>Overview</span>
                 </a>
             </li>
             <li class="px-4 py-3 rounded-xl w-full" class:bg-[#292929]={$page.url.pathname === "/repositories"}>
-                <a href="/repositories" class="flex flex-row gap-4 items-center">
+                <a href="{base}/repositories" class="flex flex-row gap-4 items-center">
                     <Repo16 size="18"/>
                     <span>Repositories</span>
                 </a>
             </li>
             <li class="px-4 py-3 rounded-xl w-full" class:bg-[#292929]={$page.url.pathname === "/projects"}>
-                <a href="/projects" class="flex flex-row gap-4 items-center">
+                <a href="{base}/projects" class="flex flex-row gap-4 items-center">
                     <Project16 size="18"/>
                     <span>Projects</span>
                 </a>
             </li>
             <li class="px-4 py-3 rounded-xl w-full" class:bg-[#292929]={$page.url.pathname === "/packages"}>
-                <a href="/packages" class="flex flex-row gap-4 items-center">
+                <a href="{base}/packages" class="flex flex-row gap-4 items-center">
                     <Package16 size="18"/>
                     <span>Packages</span>
                 </a>
             </li>
             <li class="px-4 py-3 rounded-xl w-full" class:bg-[#292929]={$page.url.pathname === "/stars"}>
-                <a href="/stars" class="flex flex-row gap-4 items-center">
+                <a href="{base}/stars" class="flex flex-row gap-4 items-center">
                     <Star16 size="18"/>
                     <span>Stars</span>
                 </a>

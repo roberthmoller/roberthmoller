@@ -2,7 +2,7 @@
     import Card from '$lib/card.svelte';
     import SvelteMarkdown from 'svelte-markdown'
     import Repository from '$lib/repository.svelte'
-
+    import {base} from '$app/paths'
     const {data} = $props();
     const {profile, readme, repositories} = data;
 </script>
@@ -10,7 +10,7 @@
 
 <main class="grid grid-cols-5 gap-4 flex-grow">
     <Card class="md:col-span-2">
-        <img src="/profile.png" class="h-full object-cover" alt="{profile.name}s profile photo"/>
+        <img src="{base}/profile.png" class="h-full object-cover" alt="{profile.name}s profile photo"/>
     </Card>
 
     <Card class="md:col-span-3 p-4">
