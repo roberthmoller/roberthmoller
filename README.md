@@ -1,10 +1,8 @@
 # Hi 👋 My name is Robert
-I'm a full-stack software engineer with a MSc in Computer Science specialiced in Digital Security.
+I'm a full-stack software engineer with a MSc in Computer Science specialized in Digital Security.
 
 * 🌍 Based in France
-* 🧠 Learning how to build AI Agent
 * 📚 Always interested in learning new things
-* 👨‍💻 Working for Amadeus through Alten
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=roberthmoller&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&exclude_repo=POLIMI-FINFO#gh-dark-mode-only)](https://github.com/roberthmoller#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=roberthmoller&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=light&bg_color=ffffff&exclude_repo=POLIMI-FINFO#gh-light-mode-only)](https://github.com/roberthmoller#gh-light-mode-only)
